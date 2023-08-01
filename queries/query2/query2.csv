@@ -1,0 +1,1587 @@
+"Country Name","Film Category","Number OF Rentals"
+"India","Action",118
+"India","Sports",115
+"India","Documentary",114
+"China","Animation",113
+"India","Animation",111
+"India","Children",106
+"India","Foreign",106
+"India","Sci-Fi",106
+"China","Drama",105
+"China","Family",105
+"India","Classics",104
+"India","Family",102
+"China","Sports",100
+"India","Drama",97
+"China","Games",92
+"China","New",90
+"China","Children",89
+"India","New",89
+"China","Classics",88
+"China","Comedy",88
+"India","Comedy",88
+"India","Horror",88
+"China","Action",87
+"China","Documentary",87
+"China","Foreign",84
+"China","Sci-Fi",82
+"China","Music",79
+"India","Games",78
+"India","Music",77
+"China","Horror",74
+"United States","Documentary",74
+"India","Travel",73
+"United States","Sports",73
+"Mexico","Sports",69
+"United States","Drama",69
+"Japan","Animation",68
+"United States","Animation",68
+"United States","Family",66
+"Brazil","Sci-Fi",64
+"Japan","Sci-Fi",64
+"United States","Foreign",64
+"China","Travel",63
+"Japan","Drama",63
+"Mexico","Drama",63
+"Mexico","Sci-Fi",62
+"United States","Action",62
+"United States","Horror",62
+"United States","Sci-Fi",62
+"Japan","Documentary",60
+"Russian Federation","Family",60
+"United States","Games",60
+"Japan","New",59
+"United States","Comedy",59
+"Mexico","Documentary",58
+"Philippines","Animation",58
+"Brazil","Sports",57
+"Mexico","Foreign",57
+"Mexico","Action",56
+"United States","Children",56
+"Brazil","Animation",55
+"Russian Federation","Animation",55
+"United States","New",55
+"Brazil","Drama",54
+"Japan","Sports",54
+"United States","Classics",54
+"Russian Federation","Action",53
+"Brazil","Documentary",52
+"Japan","Classics",52
+"Mexico","Children",52
+"Brazil","Action",51
+"Mexico","Family",51
+"United States","Music",51
+"Japan","Children",50
+"Japan","Comedy",50
+"Japan","Games",50
+"Japan","Travel",49
+"Mexico","Games",49
+"Philippines","Foreign",49
+"Russian Federation","Games",49
+"Mexico","Animation",48
+"Brazil","Foreign",46
+"Japan","Family",46
+"Mexico","Classics",46
+"Russian Federation","Classics",46
+"Russian Federation","Documentary",46
+"Brazil","New",45
+"Mexico","Travel",45
+"Brazil","Family",44
+"Japan","Foreign",44
+"Russian Federation","Sci-Fi",44
+"Brazil","Children",43
+"Japan","Action",43
+"Russian Federation","Children",43
+"Brazil","Classics",42
+"Brazil","Horror",42
+"Brazil","Travel",42
+"Philippines","Family",42
+"Russian Federation","Music",41
+"Russian Federation","New",41
+"Russian Federation","Travel",41
+"Russian Federation","Comedy",40
+"Russian Federation","Sports",40
+"Japan","Horror",39
+"Philippines","Sports",39
+"Russian Federation","Drama",39
+"Russian Federation","Foreign",39
+"Brazil","Comedy",38
+"Philippines","Comedy",38
+"Argentina","Documentary",37
+"Brazil","Games",37
+"Brazil","Music",36
+"Mexico","Comedy",36
+"Mexico","Music",36
+"Russian Federation","Horror",36
+"Philippines","Games",35
+"Japan","Music",34
+"Mexico","Horror",34
+"Mexico","New",34
+"Turkey","Drama",34
+"Philippines","Drama",33
+"Turkey","Action",33
+"United States","Travel",33
+"Indonesia","Action",32
+"Philippines","Children",32
+"Philippines","Action",31
+"Philippines","Music",31
+"Philippines","New",31
+"Philippines","Sci-Fi",31
+"South Africa","Sports",31
+"Nigeria","Foreign",30
+"Philippines","Horror",30
+"Philippines","Travel",30
+"Taiwan","Animation",30
+"Argentina","Family",29
+"Argentina","Sports",29
+"Nigeria","Documentary",29
+"Philippines","Classics",29
+"Philippines","Documentary",29
+"Turkey","Horror",29
+"Argentina","Sci-Fi",28
+"Nigeria","Sci-Fi",27
+"Turkey","Children",27
+"Turkey","Sci-Fi",27
+"Argentina","Animation",26
+"Indonesia","Animation",26
+"Indonesia","Classics",26
+"Indonesia","Drama",26
+"Indonesia","Family",26
+"Indonesia","New",26
+"Nigeria","Sports",26
+"Turkey","Animation",26
+"Argentina","Action",25
+"Indonesia","Games",25
+"South Africa","Animation",25
+"Turkey","Comedy",25
+"Turkey","Documentary",25
+"Indonesia","Children",24
+"Nigeria","Comedy",24
+"Taiwan","Drama",24
+"Taiwan","Family",24
+"Turkey","Family",24
+"Argentina","Games",23
+"Indonesia","Foreign",23
+"Nigeria","Children",23
+"Nigeria","Horror",23
+"South Africa","Games",23
+"Taiwan","Action",23
+"Turkey","Foreign",23
+"Turkey","Sports",23
+"Argentina","Travel",22
+"Indonesia","Documentary",22
+"Indonesia","Sci-Fi",22
+"Poland","Sports",22
+"Taiwan","Games",22
+"Germany","Animation",21
+"Indonesia","Sports",21
+"Nigeria","Action",21
+"Nigeria","Animation",21
+"Nigeria","Family",21
+"South Africa","Classics",21
+"South Africa","Documentary",21
+"South Africa","Sci-Fi",21
+"Turkey","Music",21
+"Turkey","New",21
+"United Kingdom","Sports",21
+"Argentina","Drama",20
+"Indonesia","Music",20
+"Iran","Classics",20
+"South Africa","Action",20
+"Taiwan","Children",20
+"Taiwan","Classics",20
+"Taiwan","Documentary",20
+"Taiwan","New",20
+"Nigeria","Classics",19
+"Nigeria","Music",19
+"Taiwan","Foreign",19
+"Argentina","Classics",18
+"Argentina","Foreign",18
+"Argentina","Music",18
+"Germany","Action",18
+"Iran","Comedy",18
+"Italy","Family",18
+"Nigeria","Drama",18
+"South Africa","Music",18
+"Taiwan","Sci-Fi",18
+"Turkey","Classics",18
+"Turkey","Travel",18
+"Ukraine","Action",18
+"United Kingdom","Sci-Fi",18
+"Argentina","New",17
+"Egypt","Sci-Fi",17
+"Indonesia","Travel",17
+"Italy","Children",17
+"Nigeria","Games",17
+"Nigeria","New",17
+"Nigeria","Travel",17
+"Poland","Comedy",17
+"Poland","New",17
+"Spain","Games",17
+"United Kingdom","Action",17
+"United Kingdom","Documentary",17
+"United Kingdom","Drama",17
+"Argentina","Comedy",16
+"Colombia","Animation",16
+"Indonesia","Horror",16
+"Iran","Action",16
+"Iran","Family",16
+"Iran","Sci-Fi",16
+"South Africa","Foreign",16
+"Ukraine","Animation",16
+"United Kingdom","Family",16
+"United Kingdom","Games",16
+"Venezuela","Action",16
+"Venezuela","Documentary",16
+"Vietnam","Drama",16
+"Vietnam","New",16
+"Canada","Animation",15
+"Colombia","Family",15
+"Egypt","Sports",15
+"Indonesia","Comedy",15
+"Iran","Children",15
+"Iran","Documentary",15
+"Iran","Foreign",15
+"Italy","Drama",15
+"Poland","Action",15
+"Poland","Foreign",15
+"Poland","Music",15
+"Saudi Arabia","Animation",15
+"South Africa","Horror",15
+"South Africa","New",15
+"Taiwan","Comedy",15
+"United Kingdom","Children",15
+"United Kingdom","Comedy",15
+"United Kingdom","Travel",15
+"Yemen","Action",15
+"Canada","Family",14
+"Canada","Sci-Fi",14
+"Colombia","Action",14
+"Egypt","Animation",14
+"Egypt","Drama",14
+"Germany","Classics",14
+"Iran","Animation",14
+"Iran","Sports",14
+"Italy","Classics",14
+"Poland","Sci-Fi",14
+"South Korea","Sports",14
+"Taiwan","Music",14
+"Turkey","Games",14
+"United Kingdom","Foreign",14
+"Vietnam","Comedy",14
+"Argentina","Children",13
+"Argentina","Horror",13
+"Germany","Drama",13
+"Germany","Sports",13
+"Iran","Games",13
+"Italy","Animation",13
+"Italy","Games",13
+"Italy","Sports",13
+"Netherlands","Animation",13
+"Netherlands","Sports",13
+"Peru","Sports",13
+"Poland","Animation",13
+"South Africa","Comedy",13
+"South Korea","Family",13
+"Taiwan","Horror",13
+"Ukraine","Classics",13
+"Ukraine","Family",13
+"Ukraine","Music",13
+"Venezuela","Horror",13
+"Vietnam","Classics",13
+"Vietnam","Family",13
+"Algeria","Sci-Fi",12
+"Colombia","Sports",12
+"Dominican Republic","Foreign",12
+"Egypt","Family",12
+"Egypt","Horror",12
+"Germany","Family",12
+"Germany","Foreign",12
+"Germany","Games",12
+"Iran","Horror",12
+"Italy","Music",12
+"Mozambique","Documentary",12
+"Pakistan","Sports",12
+"Poland","Horror",12
+"Saudi Arabia","Action",12
+"Saudi Arabia","Sci-Fi",12
+"South Africa","Drama",12
+"South Africa","Family",12
+"South Korea","Classics",12
+"South Korea","Music",12
+"Taiwan","Sports",12
+"Venezuela","Animation",12
+"Venezuela","Family",12
+"Venezuela","Foreign",12
+"Vietnam","Action",12
+"Vietnam","Foreign",12
+"Vietnam","Music",12
+"Yemen","Sports",12
+"Canada","Drama",11
+"Colombia","Documentary",11
+"Colombia","Drama",11
+"Colombia","Horror",11
+"Colombia","Travel",11
+"Egypt","Action",11
+"France","Action",11
+"Germany","Children",11
+"Germany","Comedy",11
+"Germany","Documentary",11
+"Germany","Travel",11
+"Iran","Drama",11
+"Iran","Music",11
+"Netherlands","Games",11
+"Pakistan","Action",11
+"Poland","Documentary",11
+"Poland","Drama",11
+"South Africa","Children",11
+"South Africa","Travel",11
+"South Korea","Animation",11
+"South Korea","Foreign",11
+"Spain","Classics",11
+"Spain","Comedy",11
+"Spain","Documentary",11
+"Taiwan","Travel",11
+"Ukraine","Documentary",11
+"Ukraine","Sci-Fi",11
+"Venezuela","Drama",11
+"Venezuela","Games",11
+"Venezuela","Sports",11
+"Venezuela","Travel",11
+"Vietnam","Horror",11
+"Yemen","Children",11
+"Yemen","New",11
+"Algeria","New",10
+"Colombia","Comedy",10
+"Colombia","Music",10
+"Congo, The Democratic Republic of the","Travel",10
+"Ecuador","Animation",10
+"Ecuador","Sports",10
+"France","Drama",10
+"France","Sports",10
+"Germany","Music",10
+"Germany","New",10
+"Germany","Sci-Fi",10
+"Iran","New",10
+"Israel","Sci-Fi",10
+"Italy","Action",10
+"Italy","Comedy",10
+"Italy","Foreign",10
+"Italy","New",10
+"Mozambique","Foreign",10
+"Mozambique","New",10
+"Netherlands","New",10
+"Netherlands","Travel",10
+"Pakistan","Documentary",10
+"Pakistan","Drama",10
+"Pakistan","Foreign",10
+"Peru","Sci-Fi",10
+"Peru","Travel",10
+"Poland","Children",10
+"Poland","Family",10
+"Poland","Travel",10
+"Saudi Arabia","New",10
+"Saudi Arabia","Sports",10
+"Spain","Drama",10
+"Spain","Foreign",10
+"Thailand","Sci-Fi",10
+"United Arab Emirates","Drama",10
+"United Kingdom","Animation",10
+"United Kingdom","New",10
+"Venezuela","Comedy",10
+"Vietnam","Games",10
+"Vietnam","Travel",10
+"Austria","Family",9
+"Canada","Games",9
+"Canada","Music",9
+"Iran","Travel",9
+"Israel","Classics",9
+"Israel","Foreign",9
+"Italy","Horror",9
+"Italy","Sci-Fi",9
+"Malaysia","Sci-Fi",9
+"Morocco","Foreign",9
+"Netherlands","Action",9
+"Netherlands","Comedy",9
+"Netherlands","Drama",9
+"Pakistan","Children",9
+"Pakistan","Classics",9
+"Pakistan","Travel",9
+"Peru","Classics",9
+"Peru","Foreign",9
+"Peru","Horror",9
+"Saudi Arabia","Documentary",9
+"Saudi Arabia","Horror",9
+"Saudi Arabia","Music",9
+"South Korea","Children",9
+"Spain","Sports",9
+"Tanzania","Music",9
+"Thailand","Animation",9
+"Thailand","Music",9
+"Ukraine","Children",9
+"Ukraine","New",9
+"Ukraine","Sports",9
+"United Kingdom","Classics",9
+"Venezuela","Music",9
+"Venezuela","New",9
+"Vietnam","Animation",9
+"Yemen","Drama",9
+"Yemen","Sci-Fi",9
+"Yemen","Travel",9
+"Algeria","Comedy",8
+"Austria","Action",8
+"Austria","Classics",8
+"Austria","Travel",8
+"Bangladesh","Foreign",8
+"Bangladesh","Games",8
+"Bangladesh","Horror",8
+"Bangladesh","Sports",8
+"Belarus","Action",8
+"Cameroon","Foreign",8
+"Canada","Action",8
+"Canada","Children",8
+"Canada","Comedy",8
+"Canada","Foreign",8
+"Chile","Action",8
+"Chile","Classics",8
+"Dominican Republic","New",8
+"Ecuador","Family",8
+"Egypt","Comedy",8
+"Egypt","Foreign",8
+"Egypt","Music",8
+"Egypt","Travel",8
+"France","Foreign",8
+"Israel","Action",8
+"Israel","Sports",8
+"Italy","Documentary",8
+"Italy","Travel",8
+"Latvia","Sci-Fi",8
+"Malaysia","Children",8
+"Malaysia","Documentary",8
+"Malaysia","Sports",8
+"Netherlands","Documentary",8
+"Netherlands","Horror",8
+"Netherlands","Sci-Fi",8
+"Pakistan","Sci-Fi",8
+"Paraguay","Horror",8
+"Paraguay","Sci-Fi",8
+"Peru","Family",8
+"Peru","New",8
+"Saudi Arabia","Family",8
+"South Korea","Horror",8
+"South Korea","New",8
+"Spain","Action",8
+"Spain","Animation",8
+"Spain","Children",8
+"Spain","Travel",8
+"Sudan","Drama",8
+"Tanzania","Action",8
+"Tanzania","Games",8
+"Ukraine","Games",8
+"United Arab Emirates","New",8
+"United Arab Emirates","Sci-Fi",8
+"Venezuela","Sci-Fi",8
+"Vietnam","Sports",8
+"Yemen","Games",8
+"Algeria","Animation",7
+"Algeria","Children",7
+"Angola","Animation",7
+"Angola","Comedy",7
+"Austria","Animation",7
+"Azerbaijan","Foreign",7
+"Azerbaijan","Horror",7
+"Bangladesh","Classics",7
+"Bangladesh","Documentary",7
+"Bangladesh","Music",7
+"Bangladesh","Sci-Fi",7
+"Bulgaria","Foreign",7
+"Bulgaria","Sports",7
+"Canada","Travel",7
+"Chile","Foreign",7
+"Chile","Games",7
+"Colombia","Games",7
+"Colombia","New",7
+"Colombia","Sci-Fi",7
+"Dominican Republic","Documentary",7
+"Egypt","Classics",7
+"Egypt","Documentary",7
+"Egypt","Games",7
+"Egypt","New",7
+"France","Comedy",7
+"France","New",7
+"France","Sci-Fi",7
+"Germany","Horror",7
+"Greece","Sports",7
+"Israel","Animation",7
+"Israel","Comedy",7
+"Israel","Documentary",7
+"Israel","Family",7
+"Kazakstan","Documentary",7
+"Kazakstan","Drama",7
+"Kenya","Action",7
+"Latvia","Games",7
+"Latvia","Sports",7
+"Malaysia","Action",7
+"Malaysia","Comedy",7
+"Malaysia","Foreign",7
+"Malaysia","Travel",7
+"Moldova","Children",7
+"Morocco","Animation",7
+"Mozambique","Games",7
+"Myanmar","Comedy",7
+"Netherlands","Children",7
+"Pakistan","Family",7
+"Pakistan","New",7
+"Paraguay","Animation",7
+"Peru","Games",7
+"Puerto Rico","Games",7
+"Puerto Rico","New",7
+"Romania","Sci-Fi",7
+"Runion","Sci-Fi",7
+"South Korea","Sci-Fi",7
+"Spain","Family",7
+"Spain","Horror",7
+"Spain","New",7
+"Sudan","Music",7
+"Switzerland","Classics",7
+"Tanzania","Family",7
+"Tanzania","Travel",7
+"Thailand","Action",7
+"Thailand","Drama",7
+"Thailand","Horror",7
+"Ukraine","Foreign",7
+"Ukraine","Travel",7
+"United Arab Emirates","Action",7
+"United Arab Emirates","Family",7
+"Vietnam","Children",7
+"Virgin Islands, U.S.","Animation",7
+"Yemen","Family",7
+"Yugoslavia","Animation",7
+"Algeria","Drama",6
+"Algeria","Family",6
+"Algeria","Sports",6
+"Austria","Documentary",6
+"Austria","Drama",6
+"Bangladesh","Travel",6
+"Belarus","Classics",6
+"Belarus","New",6
+"Cambodia","Documentary",6
+"Canada","Documentary",6
+"Canada","New",6
+"Colombia","Children",6
+"Colombia","Foreign",6
+"Dominican Republic","Comedy",6
+"Dominican Republic","Family",6
+"Dominican Republic","Sports",6
+"Ecuador","Action",6
+"Ecuador","Comedy",6
+"Ecuador","Sci-Fi",6
+"Egypt","Children",6
+"France","Animation",6
+"France","Family",6
+"French Polynesia","Classics",6
+"French Polynesia","Travel",6
+"Gambia","Comedy",6
+"Greece","Action",6
+"Iraq","Sports",6
+"Israel","New",6
+"Kenya","Games",6
+"Kenya","Travel",6
+"Morocco","Children",6
+"Morocco","Family",6
+"Morocco","Games",6
+"Mozambique","Family",6
+"Myanmar","Drama",6
+"Netherlands","Family",6
+"North Korea","Documentary",6
+"Pakistan","Comedy",6
+"Pakistan","Horror",6
+"Peru","Children",6
+"Poland","Classics",6
+"Puerto Rico","Foreign",6
+"Romania","Sports",6
+"Runion","Family",6
+"Saudi Arabia","Games",6
+"South Korea","Documentary",6
+"South Korea","Travel",6
+"Spain","Sci-Fi",6
+"Sri Lanka","Children",6
+"Sudan","Foreign",6
+"Switzerland","Family",6
+"Tanzania","Animation",6
+"Tanzania","Drama",6
+"Thailand","Family",6
+"Ukraine","Drama",6
+"United Arab Emirates","Games",6
+"United Arab Emirates","Sports",6
+"United Arab Emirates","Travel",6
+"Venezuela","Children",6
+"Yugoslavia","Sports",6
+"Algeria","Action",5
+"American Samoa","Sports",5
+"Angola","Children",5
+"Angola","Horror",5
+"Anguilla","Travel",5
+"Armenia","Animation",5
+"Austria","Comedy",5
+"Austria","New",5
+"Azerbaijan","Games",5
+"Bahrain","Sports",5
+"Bangladesh","Animation",5
+"Bangladesh","Comedy",5
+"Bangladesh","Drama",5
+"Bangladesh","New",5
+"Belarus","Animation",5
+"Belarus","Drama",5
+"Belarus","Games",5
+"Belarus","Sports",5
+"Belarus","Travel",5
+"Bolivia","Children",5
+"Bolivia","Family",5
+"Bolivia","New",5
+"Brunei","Sports",5
+"Cambodia","Animation",5
+"Cambodia","Foreign",5
+"Cambodia","Sports",5
+"Cameroon","Action",5
+"Cameroon","Documentary",5
+"Cameroon","Family",5
+"Canada","Horror",5
+"Canada","Sports",5
+"Chile","Comedy",5
+"Colombia","Classics",5
+"Congo, The Democratic Republic of the","Comedy",5
+"Congo, The Democratic Republic of the","Games",5
+"Congo, The Democratic Republic of the","Horror",5
+"Dominican Republic","Drama",5
+"Ecuador","Documentary",5
+"Ecuador","Drama",5
+"Ecuador","Games",5
+"Ecuador","New",5
+"Estonia","Family",5
+"Estonia","Sports",5
+"France","Children",5
+"France","Classics",5
+"France","Horror",5
+"French Polynesia","Action",5
+"French Polynesia","New",5
+"Greece","Music",5
+"Holy See (Vatican City State)","Documentary",5
+"Israel","Drama",5
+"Kazakstan","Animation",5
+"Kazakstan","Horror",5
+"Kenya","Comedy",5
+"Latvia","Action",5
+"Latvia","Animation",5
+"Latvia","Classics",5
+"Malaysia","Family",5
+"Malaysia","Games",5
+"Moldova","Classics",5
+"Morocco","Action",5
+"Morocco","Comedy",5
+"Morocco","Documentary",5
+"Morocco","Horror",5
+"Mozambique","Action",5
+"Mozambique","Children",5
+"Mozambique","Music",5
+"Nauru","Comedy",5
+"Nauru","Horror",5
+"Netherlands","Music",5
+"North Korea","Music",5
+"Oman","Foreign",5
+"Oman","New",5
+"Oman","Travel",5
+"Pakistan","Games",5
+"Pakistan","Music",5
+"Paraguay","Comedy",5
+"Paraguay","Music",5
+"Peru","Comedy",5
+"Poland","Games",5
+"Puerto Rico","Action",5
+"Puerto Rico","Animation",5
+"Romania","Action",5
+"Romania","Children",5
+"Romania","Classics",5
+"Romania","Horror",5
+"Romania","Music",5
+"Runion","Travel",5
+"Saudi Arabia","Children",5
+"Saudi Arabia","Comedy",5
+"Senegal","Sci-Fi",5
+"South Korea","Drama",5
+"South Korea","Games",5
+"Sudan","Sci-Fi",5
+"Switzerland","Animation",5
+"Switzerland","Comedy",5
+"Switzerland","Documentary",5
+"Switzerland","Drama",5
+"Tanzania","Classics",5
+"Tanzania","Horror",5
+"Tanzania","New",5
+"Thailand","Children",5
+"Thailand","Comedy",5
+"Thailand","Documentary",5
+"Thailand","Games",5
+"Thailand","Sports",5
+"Thailand","Travel",5
+"United Arab Emirates","Children",5
+"United Arab Emirates","Foreign",5
+"United Arab Emirates","Music",5
+"United Kingdom","Horror",5
+"Vietnam","Sci-Fi",5
+"Yemen","Animation",5
+"Yemen","Foreign",5
+"Yugoslavia","Horror",5
+"Yugoslavia","New",5
+"Algeria","Foreign",4
+"Algeria","Games",4
+"Algeria","Music",4
+"Angola","Classics",4
+"Angola","Music",4
+"Angola","New",4
+"Anguilla","Animation",4
+"Anguilla","Sci-Fi",4
+"Austria","Sports",4
+"Azerbaijan","Action",4
+"Azerbaijan","Animation",4
+"Azerbaijan","Comedy",4
+"Azerbaijan","New",4
+"Azerbaijan","Sci-Fi",4
+"Bahrain","Action",4
+"Bahrain","Family",4
+"Bahrain","Sci-Fi",4
+"Bangladesh","Action",4
+"Belarus","Family",4
+"Bolivia","Animation",4
+"Bolivia","Comedy",4
+"Bolivia","Documentary",4
+"Bolivia","Sports",4
+"Brunei","Comedy",4
+"Brunei","Drama",4
+"Bulgaria","Documentary",4
+"Bulgaria","New",4
+"Bulgaria","Sci-Fi",4
+"Cambodia","Action",4
+"Cambodia","Sci-Fi",4
+"Cambodia","Travel",4
+"Cameroon","Animation",4
+"Cameroon","Children",4
+"Cameroon","Games",4
+"Cameroon","Horror",4
+"Canada","Classics",4
+"Chad","Sci-Fi",4
+"Chad","Sports",4
+"Chile","Children",4
+"Chile","Drama",4
+"Chile","New",4
+"Chile","Sci-Fi",4
+"Chile","Sports",4
+"Chile","Travel",4
+"Congo, The Democratic Republic of the","Foreign",4
+"Czech Republic","Children",4
+"Czech Republic","New",4
+"Dominican Republic","Games",4
+"Dominican Republic","Horror",4
+"Dominican Republic","Travel",4
+"Ecuador","Children",4
+"Ecuador","Foreign",4
+"Ecuador","Music",4
+"Ecuador","Travel",4
+"Faroe Islands","Animation",4
+"Faroe Islands","Family",4
+"Faroe Islands","Sci-Fi",4
+"Faroe Islands","Sports",4
+"Finland","Action",4
+"France","Music",4
+"French Guiana","Animation",4
+"French Polynesia","Comedy",4
+"French Polynesia","Documentary",4
+"French Polynesia","Foreign",4
+"French Polynesia","Games",4
+"French Polynesia","Sci-Fi",4
+"Greece","Family",4
+"Greece","Sci-Fi",4
+"Greenland","Games",4
+"Greenland","New",4
+"Holy See (Vatican City State)","Drama",4
+"Holy See (Vatican City State)","Foreign",4
+"Hong Kong","Foreign",4
+"Hong Kong","Sports",4
+"Hungary","Family",4
+"Hungary","Sci-Fi",4
+"Israel","Children",4
+"Israel","Horror",4
+"Kazakstan","Children",4
+"Kazakstan","Comedy",4
+"Kazakstan","Music",4
+"Kenya","Animation",4
+"Kenya","Children",4
+"Kenya","Family",4
+"Kenya","Foreign",4
+"Kenya","Music",4
+"Kenya","Sports",4
+"Kuwait","Classics",4
+"Kuwait","Foreign",4
+"Latvia","Comedy",4
+"Latvia","Drama",4
+"Liechtenstein","Action",4
+"Liechtenstein","Foreign",4
+"Madagascar","Horror",4
+"Malawi","Classics",4
+"Malawi","Music",4
+"Malaysia","Horror",4
+"Moldova","Family",4
+"Moldova","Foreign",4
+"Morocco","Sci-Fi",4
+"Mozambique","Sci-Fi",4
+"Mozambique","Travel",4
+"Myanmar","Action",4
+"Myanmar","Family",4
+"Myanmar","Horror",4
+"Myanmar","New",4
+"Myanmar","Sports",4
+"Myanmar","Travel",4
+"Nauru","Drama",4
+"Netherlands","Classics",4
+"Netherlands","Foreign",4
+"New Zealand","Classics",4
+"New Zealand","Drama",4
+"Oman","Classics",4
+"Oman","Comedy",4
+"Oman","Drama",4
+"Oman","Sci-Fi",4
+"Pakistan","Animation",4
+"Paraguay","Classics",4
+"Peru","Action",4
+"Peru","Documentary",4
+"Peru","Drama",4
+"Puerto Rico","Drama",4
+"Puerto Rico","Horror",4
+"Puerto Rico","Music",4
+"Puerto Rico","Sports",4
+"Romania","Animation",4
+"Romania","New",4
+"Runion","Classics",4
+"Runion","Foreign",4
+"Runion","Horror",4
+"Saint Vincent and the Grenadines","Horror",4
+"Saudi Arabia","Foreign",4
+"Senegal","Travel",4
+"Slovakia","Drama",4
+"Slovakia","Family",4
+"South Korea","Action",4
+"South Korea","Comedy",4
+"Spain","Music",4
+"Sri Lanka","Classics",4
+"Sri Lanka","Family",4
+"Sudan","Children",4
+"Sweden","Classics",4
+"Sweden","Games",4
+"Switzerland","Foreign",4
+"Switzerland","Games",4
+"Switzerland","Sports",4
+"Tanzania","Sports",4
+"Thailand","Classics",4
+"Thailand","Foreign",4
+"Tonga","Sports",4
+"Tunisia","Sci-Fi",4
+"Turkmenistan","Family",4
+"Turkmenistan","Games",4
+"Tuvalu","Children",4
+"Tuvalu","Music",4
+"Ukraine","Comedy",4
+"Ukraine","Horror",4
+"United Arab Emirates","Classics",4
+"United Kingdom","Music",4
+"Vietnam","Documentary",4
+"Yemen","Comedy",4
+"Yugoslavia","Children",4
+"Yugoslavia","Foreign",4
+"Yugoslavia","Sci-Fi",4
+"Zambia","Animation",4
+"Zambia","Games",4
+"Afghanistan","Comedy",3
+"Algeria","Classics",3
+"Algeria","Documentary",3
+"Algeria","Travel",3
+"American Samoa","Travel",3
+"Angola","Action",3
+"Angola","Foreign",3
+"Angola","Sci-Fi",3
+"Anguilla","Children",3
+"Anguilla","Drama",3
+"Anguilla","Family",3
+"Anguilla","Games",3
+"Anguilla","Music",3
+"Armenia","Foreign",3
+"Armenia","Games",3
+"Armenia","Sci-Fi",3
+"Austria","Children",3
+"Austria","Sci-Fi",3
+"Azerbaijan","Children",3
+"Azerbaijan","Drama",3
+"Azerbaijan","Family",3
+"Azerbaijan","Music",3
+"Azerbaijan","Sports",3
+"Bangladesh","Family",3
+"Belarus","Comedy",3
+"Belarus","Horror",3
+"Belarus","Sci-Fi",3
+"Bolivia","Action",3
+"Bolivia","Classics",3
+"Bolivia","Music",3
+"Bolivia","Sci-Fi",3
+"Brunei","Children",3
+"Brunei","Documentary",3
+"Brunei","Travel",3
+"Bulgaria","Animation",3
+"Bulgaria","Children",3
+"Bulgaria","Classics",3
+"Bulgaria","Comedy",3
+"Bulgaria","Drama",3
+"Bulgaria","Music",3
+"Cambodia","Children",3
+"Cambodia","Classics",3
+"Cambodia","Family",3
+"Cambodia","Games",3
+"Cameroon","Music",3
+"Cameroon","New",3
+"Cameroon","Sports",3
+"Chad","Animation",3
+"Chad","Drama",3
+"Chad","Foreign",3
+"Chad","Games",3
+"Chile","Animation",3
+"Chile","Family",3
+"Chile","Music",3
+"Congo, The Democratic Republic of the","Action",3
+"Congo, The Democratic Republic of the","Classics",3
+"Congo, The Democratic Republic of the","Drama",3
+"Congo, The Democratic Republic of the","Family",3
+"Czech Republic","Comedy",3
+"Czech Republic","Sports",3
+"Dominican Republic","Action",3
+"Dominican Republic","Music",3
+"Dominican Republic","Sci-Fi",3
+"Ecuador","Horror",3
+"Ethiopia","Animation",3
+"Ethiopia","Family",3
+"Faroe Islands","Drama",3
+"Finland","Family",3
+"Finland","Games",3
+"Finland","Sports",3
+"France","Travel",3
+"French Guiana","Action",3
+"French Guiana","Drama",3
+"French Polynesia","Family",3
+"French Polynesia","Sports",3
+"Gambia","Action",3
+"Gambia","Drama",3
+"Greece","Animation",3
+"Greece","Classics",3
+"Greece","Comedy",3
+"Greece","Drama",3
+"Greece","Games",3
+"Greece","Horror",3
+"Greece","New",3
+"Greece","Travel",3
+"Greenland","Classics",3
+"Greenland","Sports",3
+"Holy See (Vatican City State)","Action",3
+"Holy See (Vatican City State)","Games",3
+"Holy See (Vatican City State)","Sports",3
+"Hong Kong","Documentary",3
+"Hong Kong","Family",3
+"Hong Kong","Games",3
+"Hungary","Children",3
+"Hungary","Sports",3
+"Hungary","Travel",3
+"Iraq","Comedy",3
+"Iraq","Games",3
+"Israel","Games",3
+"Israel","Travel",3
+"Kazakstan","Action",3
+"Kazakstan","Family",3
+"Kazakstan","Sports",3
+"Latvia","Children",3
+"Latvia","New",3
+"Latvia","Travel",3
+"Liechtenstein","Classics",3
+"Liechtenstein","Games",3
+"Liechtenstein","Sci-Fi",3
+"Lithuania","Children",3
+"Madagascar","Family",3
+"Madagascar","Sports",3
+"Malawi","Sci-Fi",3
+"Malawi","Sports",3
+"Malaysia","Animation",3
+"Malaysia","Drama",3
+"Malaysia","Music",3
+"Morocco","Classics",3
+"Morocco","Music",3
+"Morocco","Sports",3
+"Mozambique","Horror",3
+"Mozambique","Sports",3
+"Myanmar","Sci-Fi",3
+"Nauru","Games",3
+"Nepal","Foreign",3
+"Nepal","Sci-Fi",3
+"New Zealand","Sports",3
+"North Korea","Animation",3
+"Oman","Documentary",3
+"Oman","Family",3
+"Oman","Games",3
+"Oman","Horror",3
+"Paraguay","Documentary",3
+"Paraguay","Family",3
+"Paraguay","Foreign",3
+"Paraguay","Games",3
+"Paraguay","New",3
+"Paraguay","Sports",3
+"Paraguay","Travel",3
+"Peru","Animation",3
+"Peru","Music",3
+"Puerto Rico","Children",3
+"Puerto Rico","Sci-Fi",3
+"Puerto Rico","Travel",3
+"Romania","Comedy",3
+"Romania","Foreign",3
+"Romania","Games",3
+"Runion","Action",3
+"Runion","Documentary",3
+"Runion","Games",3
+"Saint Vincent and the Grenadines","Children",3
+"Saint Vincent and the Grenadines","Documentary",3
+"Saudi Arabia","Classics",3
+"Saudi Arabia","Travel",3
+"Slovakia","Documentary",3
+"Slovakia","New",3
+"Slovakia","Travel",3
+"Sri Lanka","Comedy",3
+"Sri Lanka","Games",3
+"Sri Lanka","Travel",3
+"Sudan","Action",3
+"Sudan","Comedy",3
+"Sudan","Family",3
+"Sudan","Games",3
+"Sudan","Horror",3
+"Sudan","Travel",3
+"Sweden","Action",3
+"Sweden","Documentary",3
+"Sweden","Drama",3
+"Sweden","Family",3
+"Sweden","Foreign",3
+"Switzerland","Action",3
+"Switzerland","New",3
+"Switzerland","Sci-Fi",3
+"Switzerland","Travel",3
+"Tanzania","Children",3
+"Tanzania","Comedy",3
+"Tanzania","Documentary",3
+"Tanzania","Sci-Fi",3
+"Thailand","New",3
+"Tunisia","Comedy",3
+"Tunisia","Foreign",3
+"Turkmenistan","Documentary",3
+"Tuvalu","Games",3
+"Tuvalu","Sci-Fi",3
+"Tuvalu","Sports",3
+"United Arab Emirates","Documentary",3
+"Venezuela","Classics",3
+"Virgin Islands, U.S.","Classics",3
+"Virgin Islands, U.S.","Comedy",3
+"Virgin Islands, U.S.","Documentary",3
+"Virgin Islands, U.S.","Drama",3
+"Virgin Islands, U.S.","New",3
+"Yemen","Classics",3
+"Yemen","Documentary",3
+"Yemen","Horror",3
+"Yemen","Music",3
+"Yugoslavia","Action",3
+"Yugoslavia","Drama",3
+"Yugoslavia","Family",3
+"Yugoslavia","Games",3
+"Yugoslavia","Travel",3
+"Zambia","Comedy",3
+"Zambia","Documentary",3
+"Zambia","Drama",3
+"Afghanistan","Classics",2
+"Afghanistan","Documentary",2
+"Afghanistan","Drama",2
+"Afghanistan","New",2
+"Algeria","Horror",2
+"American Samoa","Comedy",2
+"Angola","Sports",2
+"Anguilla","Classics",2
+"Anguilla","New",2
+"Armenia","Action",2
+"Armenia","Documentary",2
+"Armenia","Family",2
+"Armenia","Sports",2
+"Austria","Foreign",2
+"Austria","Games",2
+"Bahrain","Travel",2
+"Bangladesh","Children",2
+"Belarus","Children",2
+"Belarus","Documentary",2
+"Belarus","Foreign",2
+"Belarus","Music",2
+"Brunei","Action",2
+"Brunei","Classics",2
+"Brunei","Horror",2
+"Brunei","Sci-Fi",2
+"Bulgaria","Action",2
+"Bulgaria","Travel",2
+"Cambodia","Horror",2
+"Cambodia","Music",2
+"Cambodia","New",2
+"Cameroon","Sci-Fi",2
+"Cameroon","Travel",2
+"Chad","Action",2
+"Chad","Horror",2
+"Chad","Music",2
+"Chile","Horror",2
+"Congo, The Democratic Republic of the","Documentary",2
+"Congo, The Democratic Republic of the","Music",2
+"Congo, The Democratic Republic of the","Sci-Fi",2
+"Czech Republic","Family",2
+"Czech Republic","Foreign",2
+"Czech Republic","Games",2
+"Czech Republic","Horror",2
+"Czech Republic","Music",2
+"Czech Republic","Travel",2
+"Dominican Republic","Animation",2
+"Dominican Republic","Children",2
+"Dominican Republic","Classics",2
+"Ecuador","Classics",2
+"Estonia","Action",2
+"Estonia","Comedy",2
+"Estonia","Foreign",2
+"Estonia","Games",2
+"Estonia","Horror",2
+"Estonia","Sci-Fi",2
+"Estonia","Travel",2
+"Ethiopia","Children",2
+"Ethiopia","Classics",2
+"Ethiopia","Drama",2
+"Ethiopia","Games",2
+"Ethiopia","Sports",2
+"Faroe Islands","Comedy",2
+"Finland","Animation",2
+"Finland","Children",2
+"Finland","Comedy",2
+"Finland","New",2
+"Finland","Sci-Fi",2
+"Finland","Travel",2
+"French Guiana","Comedy",2
+"French Guiana","Foreign",2
+"French Guiana","Travel",2
+"French Polynesia","Children",2
+"French Polynesia","Drama",2
+"Gambia","Animation",2
+"Gambia","Documentary",2
+"Gambia","Foreign",2
+"Gambia","Games",2
+"Gambia","New",2
+"Gambia","Sci-Fi",2
+"Gambia","Travel",2
+"Greece","Documentary",2
+"Greece","Foreign",2
+"Greenland","Action",2
+"Greenland","Comedy",2
+"Greenland","Documentary",2
+"Greenland","Drama",2
+"Greenland","Family",2
+"Greenland","Foreign",2
+"Greenland","Horror",2
+"Greenland","Music",2
+"Greenland","Travel",2
+"Holy See (Vatican City State)","Children",2
+"Holy See (Vatican City State)","Classics",2
+"Holy See (Vatican City State)","Music",2
+"Holy See (Vatican City State)","Sci-Fi",2
+"Hong Kong","Action",2
+"Hong Kong","Children",2
+"Hong Kong","Classics",2
+"Hong Kong","Sci-Fi",2
+"Hungary","Classics",2
+"Hungary","Comedy",2
+"Hungary","Documentary",2
+"Hungary","New",2
+"Iraq","Action",2
+"Iraq","Documentary",2
+"Iraq","Family",2
+"Iraq","Foreign",2
+"Iraq","New",2
+"Israel","Music",2
+"Kazakstan","Foreign",2
+"Kazakstan","New",2
+"Kenya","Classics",2
+"Kenya","Horror",2
+"Kuwait","Children",2
+"Kuwait","Comedy",2
+"Kuwait","Documentary",2
+"Kuwait","Family",2
+"Kuwait","Games",2
+"Kuwait","Music",2
+"Kuwait","Sports",2
+"Latvia","Horror",2
+"Latvia","Music",2
+"Liechtenstein","Documentary",2
+"Liechtenstein","Family",2
+"Liechtenstein","Horror",2
+"Liechtenstein","Sports",2
+"Lithuania","Animation",2
+"Lithuania","Classics",2
+"Lithuania","Documentary",2
+"Lithuania","Foreign",2
+"Lithuania","Music",2
+"Lithuania","New",2
+"Lithuania","Sports",2
+"Lithuania","Travel",2
+"Madagascar","Comedy",2
+"Madagascar","Documentary",2
+"Madagascar","Games",2
+"Madagascar","New",2
+"Madagascar","Sci-Fi",2
+"Malawi","Children",2
+"Malawi","Comedy",2
+"Malawi","Documentary",2
+"Malawi","Family",2
+"Moldova","Animation",2
+"Moldova","Documentary",2
+"Moldova","Drama",2
+"Moldova","New",2
+"Moldova","Travel",2
+"Morocco","Drama",2
+"Mozambique","Animation",2
+"Mozambique","Classics",2
+"Myanmar","Animation",2
+"Myanmar","Children",2
+"Myanmar","Documentary",2
+"Myanmar","Foreign",2
+"Myanmar","Games",2
+"Nauru","Children",2
+"Nauru","Family",2
+"Nauru","Music",2
+"Nauru","Sci-Fi",2
+"Nauru","Travel",2
+"Nepal","Classics",2
+"Nepal","Comedy",2
+"Nepal","Horror",2
+"Nepal","Sports",2
+"Nepal","Travel",2
+"New Zealand","Horror",2
+"New Zealand","New",2
+"New Zealand","Sci-Fi",2
+"New Zealand","Travel",2
+"North Korea","Children",2
+"North Korea","Comedy",2
+"North Korea","Family",2
+"North Korea","Foreign",2
+"North Korea","Games",2
+"North Korea","Sports",2
+"Oman","Action",2
+"Oman","Children",2
+"Oman","Sports",2
+"Paraguay","Action",2
+"Puerto Rico","Classics",2
+"Puerto Rico","Documentary",2
+"Puerto Rico","Family",2
+"Romania","Documentary",2
+"Romania","Drama",2
+"Romania","Family",2
+"Runion","Comedy",2
+"Runion","New",2
+"Saint Vincent and the Grenadines","Action",2
+"Saint Vincent and the Grenadines","Comedy",2
+"Saint Vincent and the Grenadines","Drama",2
+"Saint Vincent and the Grenadines","Games",2
+"Saint Vincent and the Grenadines","Music",2
+"Senegal","Classics",2
+"Senegal","Drama",2
+"Senegal","Family",2
+"Senegal","Games",2
+"Senegal","Music",2
+"Senegal","New",2
+"Slovakia","Games",2
+"Slovakia","Sci-Fi",2
+"Slovakia","Sports",2
+"Sri Lanka","Drama",2
+"Sri Lanka","Sports",2
+"Sudan","Animation",2
+"Sudan","Documentary",2
+"Sweden","Comedy",2
+"Sweden","Horror",2
+"Sweden","Travel",2
+"Switzerland","Children",2
+"Tonga","Documentary",2
+"Tonga","Foreign",2
+"Tonga","Music",2
+"Tonga","New",2
+"Tunisia","Animation",2
+"Tunisia","Children",2
+"Tunisia","Documentary",2
+"Tunisia","Drama",2
+"Tunisia","Music",2
+"Turkmenistan","Action",2
+"Turkmenistan","Classics",2
+"Turkmenistan","Drama",2
+"Turkmenistan","Foreign",2
+"Turkmenistan","Sports",2
+"Turkmenistan","Travel",2
+"Tuvalu","Action",2
+"Tuvalu","Animation",2
+"Tuvalu","Comedy",2
+"Tuvalu","Travel",2
+"United Arab Emirates","Horror",2
+"Virgin Islands, U.S.","Children",2
+"Virgin Islands, U.S.","Horror",2
+"Virgin Islands, U.S.","Music",2
+"Yugoslavia","Comedy",2
+"Yugoslavia","Documentary",2
+"Yugoslavia","Music",2
+"Zambia","Action",2
+"Zambia","Classics",2
+"Zambia","Family",2
+"Zambia","Foreign",2
+"Zambia","Horror",2
+"Zambia","Music",2
+"Afghanistan","Action",1
+"Afghanistan","Animation",1
+"Afghanistan","Children",1
+"Afghanistan","Foreign",1
+"Afghanistan","Games",1
+"Afghanistan","Sci-Fi",1
+"Afghanistan","Travel",1
+"American Samoa","Action",1
+"American Samoa","Animation",1
+"American Samoa","Children",1
+"American Samoa","Classics",1
+"American Samoa","Drama",1
+"American Samoa","Foreign",1
+"American Samoa","Games",1
+"American Samoa","Horror",1
+"American Samoa","Music",1
+"American Samoa","Sci-Fi",1
+"Angola","Documentary",1
+"Angola","Drama",1
+"Angola","Family",1
+"Angola","Games",1
+"Angola","Travel",1
+"Anguilla","Action",1
+"Anguilla","Comedy",1
+"Anguilla","Documentary",1
+"Armenia","Comedy",1
+"Armenia","Drama",1
+"Armenia","Music",1
+"Austria","Horror",1
+"Austria","Music",1
+"Azerbaijan","Classics",1
+"Azerbaijan","Documentary",1
+"Azerbaijan","Travel",1
+"Bahrain","Classics",1
+"Bahrain","Documentary",1
+"Bahrain","Drama",1
+"Bahrain","Foreign",1
+"Bahrain","Games",1
+"Bahrain","New",1
+"Bolivia","Drama",1
+"Bolivia","Games",1
+"Bolivia","Horror",1
+"Bolivia","Travel",1
+"Brunei","Animation",1
+"Brunei","Family",1
+"Brunei","Games",1
+"Brunei","Music",1
+"Brunei","New",1
+"Bulgaria","Games",1
+"Bulgaria","Horror",1
+"Cambodia","Comedy",1
+"Cambodia","Drama",1
+"Cameroon","Comedy",1
+"Cameroon","Drama",1
+"Chad","Children",1
+"Chad","Classics",1
+"Chad","Comedy",1
+"Chad","Family",1
+"Chad","New",1
+"Chad","Travel",1
+"Chile","Documentary",1
+"Congo, The Democratic Republic of the","Animation",1
+"Congo, The Democratic Republic of the","New",1
+"Congo, The Democratic Republic of the","Sports",1
+"Czech Republic","Action",1
+"Czech Republic","Classics",1
+"Czech Republic","Drama",1
+"Estonia","Animation",1
+"Estonia","Children",1
+"Estonia","Documentary",1
+"Estonia","Drama",1
+"Estonia","Music",1
+"Estonia","New",1
+"Ethiopia","Comedy",1
+"Ethiopia","Documentary",1
+"Ethiopia","Foreign",1
+"Ethiopia","Music",1
+"Ethiopia","New",1
+"Ethiopia","Sci-Fi",1
+"Ethiopia","Travel",1
+"Faroe Islands","Action",1
+"Faroe Islands","Children",1
+"Faroe Islands","Documentary",1
+"Faroe Islands","Games",1
+"Faroe Islands","Music",1
+"Faroe Islands","New",1
+"Faroe Islands","Travel",1
+"Finland","Classics",1
+"France","Documentary",1
+"France","Games",1
+"French Guiana","Documentary",1
+"French Guiana","Family",1
+"French Guiana","Horror",1
+"French Guiana","Music",1
+"French Guiana","Sci-Fi",1
+"French Guiana","Sports",1
+"French Polynesia","Animation",1
+"French Polynesia","Horror",1
+"Gambia","Children",1
+"Gambia","Classics",1
+"Gambia","Horror",1
+"Gambia","Music",1
+"Greenland","Animation",1
+"Greenland","Sci-Fi",1
+"Holy See (Vatican City State)","Comedy",1
+"Holy See (Vatican City State)","Family",1
+"Holy See (Vatican City State)","Horror",1
+"Holy See (Vatican City State)","Travel",1
+"Hong Kong","Animation",1
+"Hong Kong","Comedy",1
+"Hong Kong","Drama",1
+"Hong Kong","Music",1
+"Hong Kong","New",1
+"Hungary","Action",1
+"Hungary","Drama",1
+"Hungary","Games",1
+"Hungary","Music",1
+"Iraq","Classics",1
+"Iraq","Drama",1
+"Iraq","Horror",1
+"Iraq","Sci-Fi",1
+"Iraq","Travel",1
+"Kazakstan","Classics",1
+"Kazakstan","Games",1
+"Kazakstan","Sci-Fi",1
+"Kenya","Drama",1
+"Kenya","Sci-Fi",1
+"Kuwait","Action",1
+"Kuwait","Animation",1
+"Kuwait","Drama",1
+"Kuwait","New",1
+"Latvia","Documentary",1
+"Latvia","Family",1
+"Liechtenstein","Children",1
+"Liechtenstein","Comedy",1
+"Liechtenstein","New",1
+"Lithuania","Comedy",1
+"Lithuania","Drama",1
+"Lithuania","Family",1
+"Lithuania","Horror",1
+"Lithuania","Sci-Fi",1
+"Madagascar","Animation",1
+"Madagascar","Foreign",1
+"Malawi","Animation",1
+"Malawi","Drama",1
+"Malawi","Foreign",1
+"Malawi","Horror",1
+"Malawi","New",1
+"Malawi","Travel",1
+"Malaysia","New",1
+"Moldova","Comedy",1
+"Moldova","Horror",1
+"Moldova","Music",1
+"Moldova","Sci-Fi",1
+"Morocco","New",1
+"Morocco","Travel",1
+"Mozambique","Comedy",1
+"Mozambique","Drama",1
+"Myanmar","Classics",1
+"Myanmar","Music",1
+"Nauru","Action",1
+"Nauru","Classics",1
+"Nauru","Foreign",1
+"Nauru","New",1
+"Nepal","Action",1
+"Nepal","Animation",1
+"Nepal","Drama",1
+"Nepal","Family",1
+"Nepal","Games",1
+"Nepal","Music",1
+"New Zealand","Action",1
+"New Zealand","Animation",1
+"New Zealand","Children",1
+"New Zealand","Documentary",1
+"New Zealand","Foreign",1
+"North Korea","Action",1
+"North Korea","Horror",1
+"North Korea","New",1
+"North Korea","Sci-Fi",1
+"North Korea","Travel",1
+"Oman","Music",1
+"Paraguay","Children",1
+"Paraguay","Drama",1
+"Romania","Travel",1
+"Runion","Drama",1
+"Runion","Music",1
+"Runion","Sports",1
+"Saint Vincent and the Grenadines","Animation",1
+"Saint Vincent and the Grenadines","Family",1
+"Saint Vincent and the Grenadines","Foreign",1
+"Saint Vincent and the Grenadines","Sci-Fi",1
+"Saint Vincent and the Grenadines","Travel",1
+"Saudi Arabia","Drama",1
+"Senegal","Action",1
+"Senegal","Documentary",1
+"Senegal","Foreign",1
+"Senegal","Sports",1
+"Slovakia","Animation",1
+"Slovakia","Classics",1
+"Slovakia","Horror",1
+"Sri Lanka","Animation",1
+"Sri Lanka","Documentary",1
+"Sri Lanka","New",1
+"Sudan","New",1
+"Sudan","Sports",1
+"Sweden","Animation",1
+"Sweden","Children",1
+"Sweden","Music",1
+"Sweden","New",1
+"Sweden","Sports",1
+"Switzerland","Horror",1
+"Switzerland","Music",1
+"Tanzania","Foreign",1
+"Tonga","Animation",1
+"Tonga","Comedy",1
+"Tonga","Drama",1
+"Tonga","Family",1
+"Tonga","Horror",1
+"Tonga","Sci-Fi",1
+"Tunisia","Games",1
+"Tunisia","Horror",1
+"Tunisia","New",1
+"Turkmenistan","Animation",1
+"Turkmenistan","Children",1
+"Turkmenistan","Comedy",1
+"Turkmenistan","Horror",1
+"Tuvalu","New",1
+"United Arab Emirates","Animation",1
+"United Arab Emirates","Comedy",1
+"Virgin Islands, U.S.","Action",1
+"Virgin Islands, U.S.","Foreign",1
+"Virgin Islands, U.S.","Sci-Fi",1
+"Virgin Islands, U.S.","Sports",1
+"Yugoslavia","Classics",1
+"Zambia","Children",1
+"Zambia","Sci-Fi",1
+"Zambia","Sports",1
+"Zambia","Travel",1
