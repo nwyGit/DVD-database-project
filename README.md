@@ -1,6 +1,7 @@
 # DVD Rental SQL Project
 
-![pexels-poranimm-athithawatthee-851177](https://github.com/nwyGit/DVD-database-project/assets/105307947/25307b08-f28a-47f7-bd0e-6dcaf6914e03)
+![pexels-lukas-669619](https://github.com/nwyGit/DVD-database-project/assets/105307947/d64aa98a-9ba6-4f76-bc67-76ada82718e2)
+
 This SQL project involves working with the DVD Rental sample database in PostgreSQL. The database contains various tables related to actors, films, categories, stores, rentals, payments, staff, customers, addresses, cities, and countries.
 
 ## Project Overview
@@ -36,7 +37,8 @@ This section will include the 10 queries we will perform on the DVD Rental datab
 The DVD Rental database contains various tables, such as 'actor,' 'film,' 'category,' 'store,' 'rental,' 'payment,' 'staff,' 'customer,' 'address,' 'city,' and 'country.' These tables contain data related to actors, films, film categories, stores, rentals, payments, staff, customers, addresses, cities, and countries.
 
 ## Dataset ER Model
-![dvd-rental-sample-database-diagram](https://github.com/nwyGit/DVD-database-project/assets/105307947/7371bfbe-c8ff-44f9-975a-b272da4148dd)
+![dvd-rental-sample-database-diagram](https://github.com/nwyGit/DVD-database-project/assets/105307947/01fad832-41bc-46c9-9e95-abab46de513a)
+
 
 ## Contributing
 
